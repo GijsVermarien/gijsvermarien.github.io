@@ -1,4 +1,4 @@
-baseURL = 'https://vermarien.github.io'
+baseURL = 'https://gijsvermarien.github.io'
 languageCode = 'en-us'
 title = 'Gijs Vermariën'
 theme = 'hugo-coder'
