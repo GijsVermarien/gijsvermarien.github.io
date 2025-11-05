@@ -26,7 +26,7 @@ author = "Gijs Vermariën"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Gijs' personal website"
 keywords = "portfolio, blog, machinelearning, data science, scientific software"
-info = ["PhD candidate in Astrophysics and Machine Learning","Scientific ML Engineer", "Software engineer"]
+info = ["PhD candidate in Astrophysics and Machine Learning","Scientific ML Engineer", "Software Engineer"]
 avatarURL = "images/gijs1.jpg"
 # gravatar = "gijs@vermarien.com"
 dateFormat = "January 2, 2006"
